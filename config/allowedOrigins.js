@@ -1,4 +1,5 @@
 const allowedOrigins = [
+  "https://digital-village-ab5f7.web.app/",
   "https://digital-village-39hz.onrender.com/",
   // "https://digital-village.onrender.com/",
   "http://127.0.0.1:5000",
